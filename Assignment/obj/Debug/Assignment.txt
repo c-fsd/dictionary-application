@@ -1,0 +1,7 @@
+C:\Users\imrio\source\repos\2080 Assignment1\2080 Assignment1\bin\Debug\2080 Assignment1.exe.config
+C:\Users\imrio\source\repos\2080 Assignment1\2080 Assignment1\bin\Debug\2080 Assignment1.exe
+C:\Users\imrio\source\repos\2080 Assignment1\2080 Assignment1\bin\Debug\2080 Assignment1.pdb
+C:\Users\imrio\source\repos\2080 Assignment1\2080 Assignment1\obj\Debug\2080 Assignment1.csprojAssemblyReference.cache
+C:\Users\imrio\source\repos\2080 Assignment1\2080 Assignment1\obj\Debug\2080 Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\imrio\source\repos\2080 Assignment1\2080 Assignment1\obj\Debug\2080 Assignment1.exe
+C:\Users\imrio\source\repos\2080 Assignment1\2080 Assignment1\obj\Debug\2080 Assignment1.pdb
